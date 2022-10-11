@@ -11,7 +11,7 @@ public class Lab1 {
             System.out.println(computerArea(first, second, thirst));
         }
         else {
-            System.out.println("Две из трёх точек совпадают, пожалуйста проверте введённые данные");
+            System.out.println("Несколько точек совпадают, пожалуйста проверте введённые данные");
         }
     }
 
