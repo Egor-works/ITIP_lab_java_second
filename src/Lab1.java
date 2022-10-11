@@ -10,6 +10,9 @@ public class Lab1 {
         if (!first.equalsPoint3d(second) && !second.equalsPoint3d(thirst) && !thirst.equalsPoint3d(first)) {
             System.out.println(computerArea(first, second, thirst));
         }
+        else {
+            System.out.println("Две из трёх точек совпадают, пожалуйста проверте введённые данные");
+        }
     }
 
 
