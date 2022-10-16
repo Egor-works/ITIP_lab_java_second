@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8067c378-ab4f-4eac-80ed-d80f269326a8" name="Changes" comment="changing massage">
-      <change afterPath="$PROJECT_DIR$/src/Point2d.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Point2d.java" afterDir="false" />
+    <list default="true" id="8067c378-ab4f-4eac-80ed-d80f269326a8" name="Changes" comment="changing project">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Point3d.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/Point3d.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Point3d.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Point3d.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab1.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab1.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,14 +34,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/home/erore/IdeaProjects/ITIP_lab_java_second"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/erore/IdeaProjects/ITIP_lab_java_second&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Lab1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lab1" />
@@ -89,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665480862322</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="changing project">
+      <created>1665681484374</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1665681484374</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -108,6 +112,7 @@
     <MESSAGE value="Create second lab" />
     <MESSAGE value="add massage output" />
     <MESSAGE value="changing massage" />
-    <option name="LAST_COMMIT_MESSAGE" value="changing massage" />
+    <MESSAGE value="changing project" />
+    <option name="LAST_COMMIT_MESSAGE" value="changing project" />
   </component>
 </project>
