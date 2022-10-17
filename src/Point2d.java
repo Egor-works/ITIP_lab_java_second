@@ -1,9 +1,9 @@
 /** двумерный класс точки. **/
 public class Point2d {
     /** координата X **/
-    protected double xCoord;
+    private double xCoord;
     /** координата Y **/
-    protected double yCoord;
+    private double yCoord;
 
 
     /** конструктор инициализации **/
@@ -13,7 +13,7 @@ public class Point2d {
     }
     /** конструктор по умолчанию **/
     public Point2d() {
-        this(0,0);
+        this(0.0,0.0);
     }
 
 
@@ -40,6 +40,6 @@ public class Point2d {
     /** Сравнение значений двух объектов Point2 **/
     public boolean equalsPoint2d(Point2d second) {
         // Возвращаем результат сравнения значений двух полей объектов
-        return (this.xCoord == second.xCoord && this.yCoord == second.yCoord);
+        return (this.getX() == second.getX() && this.getY() == second.getY());
     }
 }
